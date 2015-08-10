@@ -21,3 +21,4 @@ How do the diagrams help you visualize the branch structure?
 
 by allowing you to see the parents
 
+TESTING BRANCHING AND MERGING
