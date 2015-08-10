@@ -2,6 +2,10 @@ When would you want to use a remote repository rather than keeping all your work
 
 always as a means of data backup
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You might only want a specific branch instead of all branches
+
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 forks when don't have permission for the repo
