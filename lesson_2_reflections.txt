@@ -24,3 +24,7 @@ by allowing you to see the parents
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 two merge the different code bases
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+saves time if there are not conflicts
