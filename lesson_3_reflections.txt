@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 always as a means of data backup
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks when don't have permission for the repo
+clones to get a local copy of a remote
